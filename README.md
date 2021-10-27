@@ -18,6 +18,7 @@ Webscraped multiple pages of job postings from Glassdoor HK for the following ro
 ## Data Preprocessing
 1. Scraped Glassdoor for each role using Selenium; Data processing with Pandas, Time, Numpy, OS, Math, Regex
 <img width="683" alt="Screenshot 2021-10-27 at 8 34 03 AM" src="https://user-images.githubusercontent.com/84705479/138980436-f05d61a7-b4f5-4ef4-aa3c-d0f54b5be8c6.png">
+
 2. Merging & Cleaning
   - Merge 3 data frames (DA, DE & DS) together
   - Drop any duplicate rows
