@@ -105,6 +105,8 @@ For middle-size companies:
 
 ## Analysis - Mean Salary Analysis
 <img width="716" alt="Screenshot 2021-10-27 at 9 11 06 AM" src="https://user-images.githubusercontent.com/84705479/138983273-0d2cd008-cd28-4178-85a3-0e0788a2c7a6.png">
+
+Where can you get the highest salary?
 <img width="1128" alt="Screenshot 2021-10-27 at 9 11 30 AM" src="https://user-images.githubusercontent.com/84705479/138983280-f38f186e-22ac-4c5c-8583-bff30c3413e4.png">
 
 ## Challenges & Next Steps
@@ -119,3 +121,22 @@ For middle-size companies:
 3. Incomplete Data
   - Challenges: Not enough information regarding required experience level for each job, hard to analyse correlation between experience level & mean salary
   - Next Steps: Likely apply machine learning to more accurately classify job category and seniority of each posting
+
+## Conclusion
+
+Our Takeaways - Project
+- High-quality analysis is not possible without high-quality data
+  - Scrape data with correct extraction methodologies.
+  - Data has to be cleaned up properly, and it takes a lot of time.
+- Write your codes clearly
+  - After hundreds of lines, codes become hard to follow.
+  - Ensure code writing is easy to trace and understand.
+  - Create variables with relevant names.
+
+Our Takeaways - Findings
+- Overall score of a company doesn’t correlate to salary
+  - Corporates should stop thinking they can make their employees happy by offering higher salary
+  - Focus more on culture/values, senior management, work/life balance, advancement opportunities, etc.
+- Data-oriented roles are becoming more important in Hong Kong
+  - Jan ‘21 (Xccelerate): HKD 192,000 (entry) → HKD 420,000 (senior)
+  - Jun ‘21 (our analysis): HKD 265,000 (entry) → HKD 444,000 (senior)
