@@ -64,14 +64,10 @@ The following sectors lead the demand for data-oriented roles in terms of :
 3. Information Technology
 
 Aside from the TOP 3 (>60%) above:
-
 Applying for Data Engineer roles? Be on the lookout for ones in Manufacturing.
-
 Prospective Data Scientists? Pay attention to the Retail sector.
 
 <img width="533" alt="Screenshot 2021-10-27 at 8 55 28 AM" src="https://user-images.githubusercontent.com/84705479/138982228-984df5e1-3697-49e5-945f-19ae374d72e9.png">
 Recruiter Galore!
-
 Data Analyst: Multiple industries already account for 10%+ of job postings, indicating that corporates are familiar with the scope of Data Analyst roles.
-
 Data Engineer / Data Scientist: Largely posted by Staffing & Outsourcing firms, representing ~15% and ~24% of such job posts.
