@@ -102,3 +102,20 @@ For middle-size companies:
 - Given no obvious correlation between salary and overall score, our suggestions for them in order to improve the above-mentioned factors to gain higher score from employees are:
   - Retain talents in the company
   - Reduce the turnover cost
+
+## Analysis - Mean Salary Analysis
+<img width="716" alt="Screenshot 2021-10-27 at 9 11 06 AM" src="https://user-images.githubusercontent.com/84705479/138983273-0d2cd008-cd28-4178-85a3-0e0788a2c7a6.png">
+<img width="1128" alt="Screenshot 2021-10-27 at 9 11 30 AM" src="https://user-images.githubusercontent.com/84705479/138983280-f38f186e-22ac-4c5c-8583-bff30c3413e4.png">
+
+## Challenges & Next Steps
+1. Data Availability
+  - Challenges: Out of 1,022 scraped job postings, only 35.2% of them have salary information
+  - Next Steps: Use a more reliable resource with particular emphasis on salary data, e.g. Payscale
+
+2. Static Analysis
+  - Challenges: The analysis is conducted based on particular data that was extracted in one single timeframe, that is 20 June 2021 afternoon.
+  - Next Steps: Apply automation / machine-centred operation to enable real-time tracking, perhaps machine learning
+
+3. Incomplete Data
+  - Challenges: Not enough information regarding required experience level for each job, hard to analyse correlation between experience level & mean salary
+  - Next Steps: Likely apply machine learning to more accurately classify job category and seniority of each posting
