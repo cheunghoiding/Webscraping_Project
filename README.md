@@ -10,9 +10,18 @@ To increase transparency and clarify data-oriented job market in Hong Kong.
 - To provide corporate HRs / recruiting firms with an efficient way of conducting competitive measurement (quant vs qual).
 
 ## Data Collection
-Webscraped multiple pages of job postings for the following roles:
+Webscraped multiple pages of job postings from Glassdoor HK for the following roles:
 - Data Analyst
 - Data Engineer
 - Data Scientist
 
 ## Data Preprocessing
+1.  Scraped Glassdoor for each role using:
+- Selenium
+    Data processing with:
+- Pandas
+- Time
+- Numpy
+- OS
+- Math
+- Regex
