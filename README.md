@@ -37,7 +37,7 @@ Webscraped multiple pages of job postings from Glassdoor HK for the following ro
     - Separate into Lower Range and Upper Range
 <img width="1109" alt="Screenshot 2021-10-27 at 8 48 53 AM" src="https://user-images.githubusercontent.com/84705479/138981616-df0de5f2-c336-45a1-91bb-24ad8b1b9049.png">
   
-  - “EmpBasicInfo”: 
+  - “EmpBasicInfo” 
     - Split extracted strings
     - Create dictionary for each job posting
     - Build a temporal list for each intended independent variable
@@ -48,4 +48,23 @@ Webscraped multiple pages of job postings from Glassdoor HK for the following ro
 4. Final Dataframe
 <img width="895" alt="Screenshot 2021-10-27 at 8 51 34 AM" src="https://user-images.githubusercontent.com/84705479/138981732-18d5abd8-565f-4101-ad9a-a57970edb1d9.png">
 
-## Analysis
+## Analysis - The Job Market
+<img width="612" alt="Screenshot 2021-10-27 at 8 55 07 AM" src="https://user-images.githubusercontent.com/84705479/138982047-8d098f5c-7193-4dbb-863b-6a2ec1b8c2cc.png">
+As of 20 June 2021, job postings were dominated by Data Engineer by an exceptionally large margin:
+- 540 Data Engineers
+- 308 Data Scientists
+- 174 Data Analysts
+
+<img width="608" alt="Screenshot 2021-10-27 at 8 55 18 AM" src="https://user-images.githubusercontent.com/84705479/138982124-d8401339-4ac6-4d58-8956-019299eb5392.png">
+The following sectors lead the demand for data-oriented roles in terms of :
+1. Business Services
+2. Finance
+3. Information Technology
+Aside from the TOP 3 (>60%) above:
+Applying for Data Engineer roles? Be on the lookout for ones in Manufacturing.
+Prospective Data Scientists? Pay attention to the Retail sector.
+
+<img width="533" alt="Screenshot 2021-10-27 at 8 55 28 AM" src="https://user-images.githubusercontent.com/84705479/138982228-984df5e1-3697-49e5-945f-19ae374d72e9.png">
+Recruiter Galore!
+Data Analyst: Multiple industries already account for 10%+ of job postings, indicating that corporates are familiar with the scope of Data Analyst roles.
+Data Engineer / Data Scientist: Largely posted by Staffing & Outsourcing firms, representing ~15% and ~24% of such job posts.
