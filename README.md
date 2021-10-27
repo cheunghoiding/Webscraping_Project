@@ -51,7 +51,6 @@ Webscraped multiple pages of job postings from Glassdoor HK for the following ro
 ## Analysis - The Job Market
 <img width="612" alt="Screenshot 2021-10-27 at 8 55 07 AM" src="https://user-images.githubusercontent.com/84705479/138982047-8d098f5c-7193-4dbb-863b-6a2ec1b8c2cc.png">
 As of 20 June 2021, job postings were dominated by Data Engineer by an exceptionally large margin:
-
 - 540 Data Engineers
 - 308 Data Scientists
 - 174 Data Analysts
