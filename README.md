@@ -78,3 +78,25 @@ Recruiter Galore!
 9 out of 10 of the companies are professional recruiting specialists.
 Applying for Data Engineer / Data Scientist roles?
 Be prepared to face the recruiters first!
+
+## Analysis - Salary per size of companies
+<img width="1160" alt="Screenshot 2021-10-27 at 9 05 33 AM" src="https://user-images.githubusercontent.com/84705479/138982796-918f378a-1aad-4336-a03a-8649a5402a7e.png">
+
+## Analysis - Overall score per size of companies
+<img width="1160" alt="Screenshot 2021-10-27 at 9 06 22 AM" src="https://user-images.githubusercontent.com/84705479/138982847-dd7d96fe-7aee-449a-9fe3-febe83c6c6be.png">
+<img width="1157" alt="Screenshot 2021-10-27 at 9 06 46 AM" src="https://user-images.githubusercontent.com/84705479/138982874-c07632b5-44ab-4b4f-95ab-f941735d1cd4.png">
+<img width="1137" alt="Screenshot 2021-10-27 at 9 07 27 AM" src="https://user-images.githubusercontent.com/84705479/138982946-a330c0e5-3d55-42c3-9621-146594e89b9c.png">
+Salary won’t buy your employees’ happiness!
+### Findings and suggestion in terms of company’s score & salary
+Overall Score is the average of the scores below:
+1. Compensation & Benefits
+2. Culture & Values
+3. Career Opportunities
+4. Work/Life Balance
+5. Senior Management
+
+For middle-size companies:
+- They pay the lowest salary and score the lowest overall score from employees
+- Given no obvious correlation between salary and overall score, our suggestions for them in order to improve the above-mentioned factors to gain higher score from employees are:
+  - Retain talents in the company
+  - Reduce the turnover cost
