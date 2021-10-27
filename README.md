@@ -36,6 +36,7 @@ Webscraped multiple pages of job postings from Glassdoor HK for the following ro
   - “salary”
     - Separate into Lower Range and Upper Range
 <img width="1109" alt="Screenshot 2021-10-27 at 8 48 53 AM" src="https://user-images.githubusercontent.com/84705479/138981616-df0de5f2-c336-45a1-91bb-24ad8b1b9049.png">
+  
   - “EmpBasicInfo”: 
     - Split extracted strings
     - Create dictionary for each job posting
@@ -43,5 +44,8 @@ Webscraped multiple pages of job postings from Glassdoor HK for the following ro
     - Append each list with extracted value from all created dictionaries
  <img width="668" alt="Screenshot 2021-10-27 at 8 50 02 AM" src="https://user-images.githubusercontent.com/84705479/138981634-91a95b5e-ea3d-4fdf-a1e2-3e513c5f1aec.png">
 <img width="1056" alt="Screenshot 2021-10-27 at 8 50 54 AM" src="https://user-images.githubusercontent.com/84705479/138981677-454468e1-fb0b-4650-9844-8c4f48ebc481.png">
+
 4. Final Dataframe
 <img width="895" alt="Screenshot 2021-10-27 at 8 51 34 AM" src="https://user-images.githubusercontent.com/84705479/138981732-18d5abd8-565f-4101-ad9a-a57970edb1d9.png">
+
+## Analysis
