@@ -86,7 +86,9 @@ Be prepared to face the recruiters first!
 <img width="1160" alt="Screenshot 2021-10-27 at 9 06 22 AM" src="https://user-images.githubusercontent.com/84705479/138982847-dd7d96fe-7aee-449a-9fe3-febe83c6c6be.png">
 <img width="1157" alt="Screenshot 2021-10-27 at 9 06 46 AM" src="https://user-images.githubusercontent.com/84705479/138982874-c07632b5-44ab-4b4f-95ab-f941735d1cd4.png">
 <img width="1137" alt="Screenshot 2021-10-27 at 9 07 27 AM" src="https://user-images.githubusercontent.com/84705479/138982946-a330c0e5-3d55-42c3-9621-146594e89b9c.png">
+
 Salary won’t buy your employees’ happiness!
+
 ### Findings and suggestion in terms of company’s score & salary
 Overall Score is the average of the scores below:
 1. Compensation & Benefits
