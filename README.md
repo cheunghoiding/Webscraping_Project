@@ -16,12 +16,9 @@ Webscraped multiple pages of job postings from Glassdoor HK for the following ro
 - Data Scientist
 
 ## Data Preprocessing
-1.  Scraped Glassdoor for each role using:
-- Selenium
-    Data processing with:
-- Pandas
-- Time
-- Numpy
-- OS
-- Math
-- Regex
+1.  Scraped Glassdoor for each role using Selenium;
+    Data processing with Pandas, Time, Numpy, OS, Math, Regex
+    ![Uploading Screenshot 2021-10-27 at 8.34.03 AM.png…]()   
+2.
+3.
+
